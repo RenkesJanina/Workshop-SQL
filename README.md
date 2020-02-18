@@ -20,7 +20,7 @@ http://codewars.com/kata/580fb94e12b34dd1c40001f0
 
 https://www.codewars.com/kata/5817b124e7f4576fd00020a2
 
-https://www.codewars.com/kata/5817b124e7f4576fd00020a2/solutions/sql?show-solutions=1
+https://www.codewars.com/kata/5817b124e7f4576fd00020a2/train/sql
 
 https://www.codewars.com/kata/58126aa90ea99769e7000119
 
