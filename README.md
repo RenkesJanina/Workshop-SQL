@@ -10,12 +10,6 @@ https://www.codewars.com/kata/591127cbe8b9fb05bd00004b
 
 https://www.codewars.com/kata/5abcf0f930488ff1a6000b66
 
-https://www.codewars.com/kata/58b8c94b7df3f116eb00005b
-
-https://www.codewars.com/kata/525f50e3b73515a6db000b83
-
-https://www.codewars.com/kata/57eb8fcdf670e99d9b000272
-
 https://www.codewars.com/kata/580fb94e12b34dd1c40001f0
 
 https://www.codewars.com/kata/593ef0e98b90525e090000b9
